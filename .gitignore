@@ -1,0 +1,7 @@
+.ivy2/
+.sbt/
+.idea/
+.DS_Store
+project/project/
+project/target/
+target/
